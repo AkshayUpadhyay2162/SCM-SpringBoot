@@ -3,7 +3,6 @@ package com.akkitech.SCM_SpringBoot.entities;
 
 import jakarta.persistence.*;
 
-// Contact entity class
 @Entity
 @Table(name = "CONTACT")
 public class Contact {
